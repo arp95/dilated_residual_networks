@@ -19,16 +19,15 @@ The data for the task of Dog-Cat image classification can be downloaded from: ht
 ### Results
 The results after using different CNN architectures are given below:
 
-
 1. <b>ResNet-50(pre-trained on ImageNet dataset)</b><br>
 
 Training Accuracy = 99.43% and Validation Accuracy = 98.43% (e = 50, lr = 0.005, m = 0.9, bs = 32, wd = 5e-4)<br><br>
 
-1. <b>DRN-50</b><br>
+2. <b>DRN-50</b><br>
 
 Training Accuracy = 96.91% and Validation Accuracy = 94.53% (e = 100, lr = 0.005, m = 0.9, bs = 32, wd = 5e-4)<br><br>
 
-1. <b>DRN-34</b><br>
+3. <b>DRN-34</b><br>
 
 Training Accuracy = 98.23% and Validation Accuracy = 96.68% (e = 100, lr = 0.005, m = 0.9, bs = 32, wd = 5e-4)<br><br>
 
